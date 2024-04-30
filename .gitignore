@@ -175,5 +175,6 @@ pyrightconfig.json
 
 #Portfolio ignored files
 creditcard.csv
+Plotly_Basics.ipynb
 
 # End of https://www.toptal.com/developers/gitignore/api/python
